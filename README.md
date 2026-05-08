@@ -86,6 +86,10 @@ Each skill loads lightweight knowledge in its main `SKILL.md` and defers detaile
 If you're looking for SEO, GEO, content creation, and WordPress publishing skills, see:
 [helder-ai-marketing-skills](https://github.com/WilcoRakhorst/helder-ai-marketing-skills)
 
+## Article
+
+[My GitHub Copilot Sessions Kept Degrading -- So I Built a Skill to Fix It](https://dev.to/wilcorakhorst/my-github-copilot-sessions-kept-degrading-so-i-built-a-skill-to-fix-it-23pg) -- published on dev.to and [CoderLegion](https://coderlegion.com/17036/my-github-copilot-sessions-kept-degrading-so-i-built-a-skill-to-fix-it)
+
 ---
 
 ## License
