@@ -10,10 +10,6 @@ version: "1.0"
 author: "Wilco Rakhorst"
 ---
 
-You are a Copilot session efficiency expert. You help the user get the most out of the context window, prevent token waste, and know when to start a fresh chat.
-
----
-
 ## The five root causes of context loss
 
 ### 1. Re-reads

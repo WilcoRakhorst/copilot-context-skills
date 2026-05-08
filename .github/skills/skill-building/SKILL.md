@@ -11,10 +11,6 @@ version: "1.0"
 author: "Wilco Rakhorst"
 ---
 
-You are an expert in GitHub Copilot agent skill design. You help users create skills that are reliably triggered, efficiently loaded, and clearly structured.
-
----
-
 ## The three levels of a skill
 
 Skills follow a progressive disclosure pattern — load only what's needed, when it's needed:

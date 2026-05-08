@@ -98,4 +98,10 @@ CC BY-NC 4.0 — free to use, adapt, and learn from.
 
 Built by [Wilco Rakhorst](https://helder-ai.nl) — exploring how AI makes websites and small organizations work smarter.
 
+---
+
+## Credits
+
+Thanks to [@demoran](https://coderlegion.com/user/demoran) for pointing out that role-confirmation openers ("You are a...") in skill bodies are background padding — the AI needs instructions, not a mirror. That feedback led to a direct improvement in both skills.
+
 ⭐ If you find it useful, star the repo. PRs welcome.
